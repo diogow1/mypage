@@ -1,0 +1,39 @@
+.navbar-item{
+  display: inline-block;
+}
+
+#navbarM{
+  text-align: center;
+}
+
+#tagsadd{
+  padding:0%;
+  padding-top: 10px;
+}
+
+.imgTag{
+  width: 30px;
+  height: 30px;
+}
+#phpimg{
+  margin-left: 5px;
+  margin-right: 4px;
+}
+
+.card{
+  margin-bottom: 20px;
+}
+
+@media screen and (min-width: 1024px) {
+  .navbar-start{
+    align-items: center;
+    margin-left:auto;
+  }
+  .navbar-menu{
+    background-color: #fff;
+    box-shadow: 0 1px 6px rgba(10,10,10,.1);
+    padding: 0.5rem 0;
+  } 
+}
+
+
