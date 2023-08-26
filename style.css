@@ -17,11 +17,34 @@
 }
 #phpimg{
   margin-left: 5px;
-  margin-right: 4px;
+  margin-right: 3px;
 }
 
 .card{
   margin-bottom: 20px;
+}
+
+.footer{
+  padding: 2rem 1.5rem 2rem;
+}
+
+#hrFooter{
+  margin-bottom: 0%;
+}
+
+#w{
+  position: absolute;
+  margin: 0%;
+}
+#aW{
+  font-size: 0.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+  color: black;
+}
+
+#aW::hover{
+  text-decoration: none;
 }
 
 @media screen and (min-width: 1024px) {
